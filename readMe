@@ -1,0 +1,11 @@
+Create folder like demo
+create some sample file with sampletext
+Goto folder type git init  ( .git folder is added in demo folder)
+Now add files to git syn:  git add filename,filename etc (or) git add -A
+
+git config --global user.email rakeshkumarark@gmail.com
+git config --global user.name rakeshkumarark
+git commit -m "initial commit"
+git remote add origin https://github.com/rakeshkumarark/projects.git
+
+
